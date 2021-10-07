@@ -8,3 +8,13 @@ We aim to provide a platform that grants new students and visitors an intuitive 
 Comparative Analysis of Competing Systems
 
 Calvin University currently has a virtual campus tour on their website, however this tour only provides the basic purposes of the buildings, excluding most or all of the information about building architecture, history, and generally interesting information which we plan to provide. Our goal is to allow users to experience the campus in a more fulfilling way.
+
+
+## Application Design
+
+# Color Theming
+
+Primary: Maroon (#8CT131)
+Secondary: Calvin Gold (#F3CD00)
+Tertiary: Very Light Gray (#D3D3D3)
+
