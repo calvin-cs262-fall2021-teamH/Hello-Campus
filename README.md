@@ -17,3 +17,12 @@ Tertiary: Very Light Gray (#D3D3D3)
 
 ![campusHelloLogo_adobespark](https://user-images.githubusercontent.com/90645514/136474913-74d898fb-f4e8-443b-a3f9-5557bab54116.png)
 
+
+## [Domain Model Diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/domain_model_diagram.png?raw=true)
+
+![domain_model_diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/domain_model_diagram.png?raw=true)
+
+
+## [UI Model Diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/UI_Diagram.png?raw=true)
+
+![ui_model_diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/UI_Diagram.png?raw=true)
