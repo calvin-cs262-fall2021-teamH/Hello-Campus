@@ -5,14 +5,6 @@ We aim to provide a platform that grants students and visitors an intuitive and 
 Calvin University currently has a virtual campus tour on their website, however this tour only provides the basic purposes of the buildings, excluding most or all of the information about building architecture, history, and generally interesting information which we plan to provide. It does not include Calvin's Ecosystem Preserve. Our goal is to allow users to experience the Ecosystem Preserve that Calvin offers in a fulfilling way.
 
 
-## Color Theming
-
-Primary: Maroon (#8CT131)
-
-Secondary: Calvin Gold (#F3CD00)
-
-Tertiary: Very Light Gray (#D3D3D3)
-
 ## Logo
 
 ![campusHelloLogo_adobespark](https://user-images.githubusercontent.com/90645514/136474913-74d898fb-f4e8-443b-a3f9-5557bab54116.png)
