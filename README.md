@@ -1,4 +1,4 @@
-# Project
+# HelloCampus Project
 
 We aim to provide a platform that grants students and visitors an intuitive and meaningful introduction to Calvin’s Ecosystem Preserve. Through this application, users will gain a deeper understanding of Calvin University’s Ecosystem Preserve, including historical facts, current activities, and services provided by the university. Based on GPS navigation, our application will provide information pertaining to the user’s location and nearby points of interest.
 
