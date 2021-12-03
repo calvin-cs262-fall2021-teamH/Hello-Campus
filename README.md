@@ -25,3 +25,6 @@ Calvin University currently has a virtual campus tour on their website, however 
 
 ## Usability Test Script
 ![usability_test](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/dfb32a2da93b1393c2e862ae555298e92e91a6c0/Usability%20Test_%20HelloCampus%20App.pdf)
+
+## User Test Result Report
+![user_test_result_report](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/user_test_result_report.pdf?raw=true)
