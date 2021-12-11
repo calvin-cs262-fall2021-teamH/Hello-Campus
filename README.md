@@ -10,9 +10,9 @@ Calvin University currently has a virtual campus tour on their website, however 
 ![campusHelloLogo_adobespark](https://user-images.githubusercontent.com/90645514/136474913-74d898fb-f4e8-443b-a3f9-5557bab54116.png)
 
 
-## [Domain Model Diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/domain_model_diagram.png?raw=true)
+## [Domain Model Diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/domain_model.png?raw=true)
 
-![domain_model_diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/domain_model_diagram.png?raw=true)
+![domain_model_diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/domain_model.png)
 
 
 ## [UI Model Diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/UI_Diagram.png?raw=true)
