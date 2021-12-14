@@ -1,6 +1,6 @@
 # Color Theming
 
-## Primary: Maroon (#8CT131)
+## Primary: Maroon (#8C1313)
 
 ## Secondary: Calvin Gold (#F3CD00)
 
