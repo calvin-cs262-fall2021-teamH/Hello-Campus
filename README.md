@@ -19,14 +19,17 @@ Calvin University currently has a virtual campus tour on their website, however 
 
 ![ui_model_diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/UI_Diagram.png?raw=true)
 
-## [Presentation]
-![presentation_1](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/presentation_1.pdf)
+## Presentation 1
+[presentation_1](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/presentation_1.pdf)
 
 ## Usability Test Script
-![usability_test](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/Usability%20Test_%20HelloCampus%20App.pdf)
+[usability_test](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/Usability%20Test_%20HelloCampus%20App.pdf)
 
 ## User Test Result Report
-![user_test_result_report](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/user_test_result_report.pdf)
+[user_test_result_report](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/user_test_result_report.pdf)
+
+## Final Presentation
+[presentation_final](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/presentation_final.pdf)
 
 ## [Deployment Diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/e1637c6c087ab756ccaf5ed9b60d5b6e10353965/HelloCampusDeployment.drawio.png)
 ![deployment_diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/e1637c6c087ab756ccaf5ed9b60d5b6e10353965/HelloCampusDeployment.drawio.png)
