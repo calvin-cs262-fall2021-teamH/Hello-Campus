@@ -27,3 +27,6 @@ Calvin University currently has a virtual campus tour on their website, however 
 
 ## User Test Result Report
 ![user_test_result_report](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/master/user_test_result_report.pdf)
+
+## [Deployment Diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/e1637c6c087ab756ccaf5ed9b60d5b6e10353965/HelloCampusDeployment.drawio.png)
+![deployment_diagram](https://github.com/calvin-cs262-fall2021-teamH/Hello-Campus/blob/e1637c6c087ab756ccaf5ed9b60d5b6e10353965/HelloCampusDeployment.drawio.png)
